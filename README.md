@@ -5,3 +5,8 @@
 ![photo_2023-04-06_16-36-20](https://user-images.githubusercontent.com/115705782/230587813-32283502-eb45-4921-a93c-fc64effd1a00.jpg)
 ![photo_2023-04-06_16-36-26](https://user-images.githubusercontent.com/115705782/230587827-289f27e5-e373-40ec-b7cb-36b90e7de8d0.jpg)
 ![photo_2023-04-06_16-36-28](https://user-images.githubusercontent.com/115705782/230587854-56bfbf4a-d95d-4b26-ba57-57de3946ce53.jpg)
+
+
+Used technologies:
+1. Firebase Authentication
+2. Firebase Realtime Database
